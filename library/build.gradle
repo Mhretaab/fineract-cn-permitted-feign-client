@@ -38,7 +38,7 @@ apply from: '../shared.gradle'
 
 dependencyManagement {
     imports {
-        mavenBom 'org.springframework.cloud:spring-cloud-dependencies:Hoxton.SR3'
+        mavenBom 'org.springframework.cloud:spring-cloud-dependencies:Hoxton.SR2'
     }
 }
 
